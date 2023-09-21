@@ -1,0 +1,18 @@
+{
+  "students": [
+    {
+      "firstname": "John",
+      "middlename": "D",
+      "lastname": "Smith",
+      "age": 23,
+      "city": "Augusta"
+    },
+    {
+      "firstname": "Audra",
+      "middlename": "J",
+      "lastname": "Avery",
+      "age": 38,
+      "city": "St. Louis"
+    }
+  ]
+}

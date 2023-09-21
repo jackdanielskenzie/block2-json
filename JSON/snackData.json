@@ -1,0 +1,16 @@
+{
+  "id": "0001",
+  "type": "candy",
+  "name": "Red Vines",
+  "ppu": 0.55,
+  "varieties":
+  {
+    "flavor":
+    [
+      { "id": "1001", "type": "Regular" },
+      { "id": "1002", "type": "Black Licorice" },
+      { "id": "1003", "type": "Grape" },
+      { "id": "1004", "type": "Assorted" }
+    ]
+  }
+}
