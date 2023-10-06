@@ -33,7 +33,9 @@ public class Main {
             // Iterated over StudentListDTO getter and return first name.
             // You can get any property from a student getter inside this list to update the printout. Try it!
             for (StudentDTO student : studentListDTO.getStudents()) {
-                System.out.println(student.getFirstname());
+                System.out.println(student.getFirstname() + " " + student.getLastname());
+                System.out.println(student.getCity());
+                System.out.println("\n");
             }
         }
         catch (Exception e) {

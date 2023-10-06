@@ -13,6 +13,13 @@
       "lastname": "Avery",
       "age": 38,
       "city": "St. Louis"
+    },
+    {
+      "firstname": "Jack",
+      "middlename": "D",
+      "lastname": "Daniels",
+      "age": 36,
+      "city": "Huntington"
     }
   ]
 }
