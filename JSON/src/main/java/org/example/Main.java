@@ -35,6 +35,8 @@ public class Main {
             for (StudentDTO student : studentListDTO.getStudents()) {
                 System.out.println(student.getFirstname() + " " + student.getLastname());
                 System.out.println(student.getCity());
+                System.out.println(student.getCity());
+                System.out.println(student.getCity());
                 System.out.println("\n");
             }
         }
